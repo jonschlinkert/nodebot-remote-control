@@ -31,7 +31,7 @@
   ],
   "verb": {
     "toc": false,
-    "layout": "default",
+    "layout": null,
     "tasks": [
       "readme"
     ],
