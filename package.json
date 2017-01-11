@@ -20,12 +20,33 @@
   },
   "devDependencies": {
     "assemble": "^0.17.1",
-    "delete": "^0.3.2"
+    "delete": "^0.3.2",
+    "gulp-format-md": "^0.1.11"
   },
   "keywords": [
     "control",
     "generategenerator",
     "nodebot",
     "remote"
-  ]
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": []
+    },
+    "reflinks": [
+      "verb",
+      "verb-generate-readme"
+    ]
+  }
 }
