@@ -2,7 +2,7 @@
 
 Should work in any modern browser.
 
-![nodebot-remote-control](https://cloud.githubusercontent.com/assets/383994/21867684/3ee21bb8-d81d-11e6-9a1e-ed0dcd4ee20f.jpg)
+![nodebot-remote-control](https://cloud.githubusercontent.com/assets/383994/21867847/12ee44a4-d81e-11e6-86a7-68be883904fe.jpg)
 
 ## Usage
 
