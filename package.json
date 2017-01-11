@@ -1,0 +1,31 @@
+{
+  "name": "nodebot-remote-control",
+  "description": "Simple web interface to control your nodebot.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/nodebot-remote-control",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/nodebot-remote-control",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/nodebot-remote-control/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "assemblefile.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "assemble": "^0.17.1",
+    "delete": "^0.3.2"
+  },
+  "keywords": [
+    "control",
+    "generategenerator",
+    "nodebot",
+    "remote"
+  ]
+}
